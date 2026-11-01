@@ -1,4 +1,4 @@
-# DevMuse Universal Testing — Demo Repository
+# DevMuse Universal Testing — Demo Repository Thanks
 
 A small **Python FastAPI + TypeScript Playwright** application, deliberately containing a feature-branch bug for DevMuse to find. The repository has two branches, `main` and `feature/discount-rules`. The feature branch permits excessive discounts, violating the documented 0–50% rule.
 
